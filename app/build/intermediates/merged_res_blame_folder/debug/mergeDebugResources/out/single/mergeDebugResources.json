@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_lc200.jpg.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\lc200.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-debug-31:/layout_activity_launch.xml.flat",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_lc100.jpg.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\lc100.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_launch.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_launch.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_launch.jpg.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\launch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\anim_translate_anim.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\anim\\translate_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_addact.jpg.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\addact.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_rounded_input.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\rounded_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\menu_my_menu.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\menu\\my_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\layout_my_row.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\layout\\my_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-debug-31:\\drawable_ic_empty.xml.flat",
+        "source": "C:\\Users\\CHAMUDITHA\\.gradle\\daemon\\8.7\\com.example.myapplication.app-main-33:\\drawable\\ic_empty.xml"
+    }
+]

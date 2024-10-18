@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBEBEB"
+
+    android:padding="30dp"
+    tools:context=".AddActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="419dp"
+        android:layout_height="917dp"
+        app:srcCompat="@drawable/addact"
+        tools:layout_editor_absoluteX="-32dp"
+        tools:layout_editor_absoluteY="-32dp" />
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="268dp"
+        android:layout_height="90dp"
+        android:backgroundTint="#96B456"
+        android:elevation="6dp"
+        android:text=" Add Exercise"
+        android:textAllCaps="false"
+        android:textColor="#F1F1F1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/duration_input"
+        app:layout_constraintVertical_bias="0.119" />
+
+    <EditText
+        android:id="@+id/exname_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/rounded_input"
+        android:elevation="4dp"
+        android:ems="10"
+        android:hint="Enter Exercise Name"
+        android:inputType="textPersonName"
+        android:padding="16dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/extype_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_input"
+        android:elevation="4dp"
+        android:ems="10"
+        android:hint="Enter Exercise Type"
+        android:inputType="textPersonName"
+        android:padding="16dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/exname_input" />
+
+    <EditText
+        android:id="@+id/duration_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/rounded_input"
+        android:elevation="4dp"
+        android:ems="10"
+        android:hint="Enter Duration in Minutes"
+        android:inputType="number"
+        android:padding="16dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/extype_input" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
